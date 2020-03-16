@@ -1,3 +1,3 @@
 # MapaBernalPerfil
 
-https://sampach95.github.io/MapaBernalPerfil/
+https://virtualab-gis.github.io/MapaPrueba/ExampleLeafletElevation-geojson.html
